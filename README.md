@@ -2,6 +2,7 @@
 
 - Detecting adversarial examples on deep neural networks with mutual information neural estimation
 [[TDSC2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
+![](picture/01.png)
 
 - CASN: Class-Aware Score Network for Textual Adversarial Detection
 [[ACL2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
@@ -140,6 +141,9 @@
 
 - Adversarial examples detection in deep networks with convolutional filter statistics
 [[ICCV2017, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
+- On detecting adversarial perturbations
+[[cited by 1077](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 #### Before 2017
 - Early methods for detecting adversarial images
