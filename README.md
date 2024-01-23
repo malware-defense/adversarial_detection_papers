@@ -8,9 +8,9 @@
 - 图像对抗样本检测综述
 [[软件学报](https://jos.org.cn/html/2024/1/6834.htm)]
 
+&nbsp;
 
 #### 2023
-
 - Detecting adversarial examples on deep neural networks with mutual information neural estimation
 [[TDSC2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
 
@@ -30,7 +30,7 @@
 [[CCF-C, 了解下baseline的选取](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 
-&nbsp;
+
 
 #### 2022
 - Adversarial detection by latent style transformations
@@ -59,27 +59,26 @@
 - Detecting adversarial examples from sensitivity inconsistency of spatial-transform domain
 [[AAAI2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
-
-- Detection of face recognition adversarial attacks
-[[CVIU2021, CCF-B](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
-
-- Detecting adversarial samples for deep learning models: a comparative study
-[[IEEE Transactions on Network Science and Engineering2021](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+- Class-disentanglement and applications in adversarial detection and defense
+[[NeurIPS2021, CCF-A](https://proceedings.neurips.cc/paper_files/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)]
 
 - Detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error
 [[IJCAL2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Libre: A practical bayesian approach to adversarial detection
-[[CVPR2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+[[CVPR2021, CCF-A](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LiBRe_A_Practical_Bayesian_Approach_to_Adversarial_Detection_CVPR_2021_paper.pdf)]
 
-- Class-disentanglement and applications in adversarial detection and defense
-[[NeurIPS2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+- Detecting adversarial samples for deep learning models: a comparative study
+[[IEEE Transactions on Network Science and Engineering2021](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - DA3G: detecting adversarial attacks by analysing gradients
 [[ESORICS2021, CCF-B, **](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Detecting adversarial examples by input transformations, defense perturbations, and voting
 [[TNNLS2021, CCF-B](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
+- Detection of face recognition adversarial attacks
+[[CVIU2021, CCF-B](https://arxiv.org/pdf/1912.02918.pdf)]
 
 #### 2020
 

@@ -60,3 +60,15 @@
   - A Simple Unified Framework for Detecting Out-Of-Distribution Samples and Adversarial Attacks. 
   - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
 
+
+- Class-disentanglement and applications in adversarial detection and defense (adversarial training based methods and preprocessing based methods)
+
+- Detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error
+  - Defense-gan: Protecting classifiers against adversarial attacks using generative models.
+  - baseline
+  
+
+- Libre: A practical bayesian approach to adversarial detection
+  - the fine-tuning start point MAP; 
+  - two standard adversarial detection approaches KD [14] and LID [39], which both work on the extracted features by MAP; 
+  - three popular BNN baselines MC dropout [17], MFVI [2], and LMFVI.
