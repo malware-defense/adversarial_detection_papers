@@ -23,4 +23,20 @@
   - Detecting adversarial examples through image transformation (RIT)
   
 - ViDetecting adversarial examples is (nearly) as hard as classifying them 
-  - 
+  
+- {WaveGuard}: Understanding and mitigating audio adversarial examples [audio domin, attack和defense均是选取本领域的，可借鉴]
+  - Isolated and ensemble audio preprocessing methods for detecting adversarial examples against automatic speech recognition
+  - Characterizing audio adversarial examples using temporal dependency
+  
+  - Magnet: a two-pronged defense against adversarial examples
+  - Countering adversarial images using input transformations
+  - Defensive quantization: When efficiency meets robustness
+  - Qusecnets: Quantization based defense mechanism for securing deep neural network against adversarial attacks
+  - Detecting adversarial image examples in deep neural networks with adaptive noise reduction
+
+
+- Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples
+  - Detecting adversarial samples from artifacts.
+  - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality
+  - Dissector: Input Validation for Deep Learning Applications by Crossing-layer Dissection.
+  - Adversarial sample detection for deep neural network through model mutation testing.
