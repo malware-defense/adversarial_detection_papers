@@ -1,3 +1,14 @@
+#### 综述
+- Adversarial example detection for DNN models: A review and experimental comparison
+[[Artificial Intelligence Review](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
+- A Survey of Adversarial Attack and Defense Methods for Malware Classification in Cyber Security
+[[IEEE Communications Surveys & Tutorials (2022)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
+
+- 图像对抗样本检测综述
+[[软件学报](https://jos.org.cn/html/2024/1/6834.htm)]
+
+
 #### 2023
 
 - Detecting adversarial examples on deep neural networks with mutual information neural estimation
@@ -28,8 +39,6 @@
 - ViDetecting adversarial examples is (nearly) as hard as classifying them 
 [[ICML2022, CCF-A](https://proceedings.mlr.press/v162/tramer22a/tramer22a.pdf)]
 
-- Adversarial example detection for DNN models: A review and experimental comparison
-[[综述](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 #### 2021
 - {WaveGuard}: Understanding and mitigating audio adversarial examples
@@ -50,8 +59,6 @@
 - Detecting adversarial examples from sensitivity inconsistency of spatial-transform domain
 [[AAAI2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
-- Adversarial example detection for DNN models: A review and experimental comparison
-[[Artificial Intelligence Review](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Detection of face recognition adversarial attacks
 [[CVIU2021, CCF-B](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
