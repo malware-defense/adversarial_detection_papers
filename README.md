@@ -44,14 +44,14 @@
 - Beating attackers at their own games: Adversarial example detection using adversarial gradient directions
 [[AAAI2021, CCF-A, **](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
+- Adversarial example detection using latent neighborhood graph
+[[ICCV2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
 - Detecting adversarial examples from sensitivity inconsistency of spatial-transform domain
 [[AAAI2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Adversarial example detection for DNN models: A review and experimental comparison
-[[AAAI2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
-
-- Adversarial example detection using latent neighborhood graph
-[[ICCV2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+[[Artificial Intelligence Review](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Detection of face recognition adversarial attacks
 [[CVIU2021, CCF-B](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
@@ -108,6 +108,9 @@
 
 
 #### 2018
+- Feature squeezing: Detecting adversarial examples in deep neural networks
+[[cited by 1812, NDSS2018, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
 - Detecting adversarial image examples in deep neural networks with adaptive noise reduction
 [[TDSC2018, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
@@ -135,9 +138,6 @@
 #### 2017
 - On the (statistical) detection of adversarial examples
 [[statistical](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
-
-- Feature squeezing: Detecting adversarial examples in deep neural networks
-[[cited by 1812](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - Safetynet: Detecting and rejecting adversarial examples robustly
 [[ICCV2017, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]

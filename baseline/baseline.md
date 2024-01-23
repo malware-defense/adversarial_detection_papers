@@ -40,3 +40,23 @@
   - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality
   - Dissector: Input Validation for Deep Learning Applications by Crossing-layer Dissection.
   - Adversarial sample detection for deep neural network through model mutation testing.
+
+
+- Beating attackers at their own games: Adversarial example detection using adversarial gradient directions
+  - A New Defense Against Adversarial Images: Turning a Weakness into a Strength.
+  - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
+  - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.
+  - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. (DkNN)
+
+
+- Adversarial Example Detection Using Latent Neighborhood Graph
+  - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. (DkNN)
+  - Defense against adversarial images using web-scale nearest-neighbor search. (KNN)
+  - Characterizing adversarial subspaces using local intrinsic dimensionality (LID)
+  - A new defense against adversarial images: Turning a weakness into a strength.
+
+- Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain (schemes based)
+  - Characterizing adversarial subspaces using local intrinsic dimensionality (LID)
+  - A Simple Unified Framework for Detecting Out-Of-Distribution Samples and Adversarial Attacks. 
+  - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
+
