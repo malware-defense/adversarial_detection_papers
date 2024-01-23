@@ -2,7 +2,6 @@
 
 - Detecting adversarial examples on deep neural networks with mutual information neural estimation
 [[TDSC2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
-![](picture/01.png)
 
 - CASN: Class-Aware Score Network for Textual Adversarial Detection
 [[ACL2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
@@ -11,7 +10,7 @@
 [[TASLP2023, CCF-B](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 - A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images
-[[ICLR2023, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+[[ICLR2023, CCF-A](https://openreview.net/pdf?id=RIcaT3C0wP)]
 
 - Adversarial and clean data are not twins
 [[被引319](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
@@ -24,9 +23,10 @@
 
 #### 2022
 - Adversarial detection by latent style transformations
-[[TIFS2022, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+[[TIFS2022, CCF-A](https://arxiv.org/pdf/2006.09701.pdf)]
 
-- ViDetecting adversarial examples is (nearly) as hard as classifying them [[ICML2022, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+- ViDetecting adversarial examples is (nearly) as hard as classifying them 
+[[ICML2022, CCF-A](https://proceedings.mlr.press/v162/tramer22a/tramer22a.pdf)]
 
 - Adversarial example detection for DNN models: A review and experimental comparison
 [[综述](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
@@ -128,6 +128,9 @@
 
 - Detecting adversarial examples through image transformation
 [[AAAI2018,CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+
+- Characterizing adversarial subspaces using local intrinsic dimensionality
+[[ICLR2018,CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
 
 #### 2017
 - On the (statistical) detection of adversarial examples
