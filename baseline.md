@@ -1,30 +1,31 @@
-- Detecting adversarial examples on deep neural networks with mutual information neural estimation (MIAED)
+- Detecting adversarial examples on deep neural networks with mutual information neural estimation (MIAED)[[TDSC2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
+  - **1. 未给出baseline选取理由，仅说是sota 2. 阐述了防御和检测的关系**
   - On detecting adversarial perturbations (GND)
   - Detecting adversarial samples from artifacts (KD+BU)
   - Characterizing adversarial subspaces using local intrinsic dimensionality (LID)
   - Adversarial and clean data are not twins (SSD)
   - Detecting adversarial image examples in deep neural networks with adaptive noise reduction (TSD)
-
-- A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images
-  - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
-  - Magnet: A two-pronged defense against adversarial examples (Magnet)
-
-- EMShepherd: Detecting Adversarial Samples via Side-channel Leakage
-  - Detecting adversarial samples with neural network invariant checking. (KDE)
-  - Detecting adversarial samples from artifacts. (NIC)
-  - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
-  - Magnet: A two-pronged defense against adversarial examples (Magnet)
   
-- Adversarial Detection by Latent Style Transformations [image transformation based multi-point defense techniques]
-  - Defense-gan:Protecting classifiers against adversarial attacks using generative models ( Defense-GAN)
+- A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images[[ICLR2023, CCF-A](https://openreview.net/pdf?id=RIcaT3C0wP)]
+  - **1. Supervised methods depend on the knowledge about the perpetrated attack, Unsupervised methods do not assume any knowledge of the attacker. 2. 选取的理由是Unsupervised methods(但没说明为什么不选其他的)，  We could consider NIC (Ma and Liu, 2019) but extracting features at each layer is computationally expensive.**
+   - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
+   - Magnet: A two-pronged defense against adversarial examples (Magnet)
+
+
+- Adversarial Detection by Latent Style Transformations[[TIFS2022, CCF-A](https://arxiv.org/pdf/2006.09701.pdf)]
+  - **1.给出了Adversarial defenses的分类  2. sota比较：MagNet, Defense-GAN,FBGAN； transformation based multi-point defense techniques比较：RIT, NFP**
+  - image transformation based multi-point defense techniques 
+  - Defense-gan:Protecting classifiers against adversarial attacks using generative models (Defense-GAN)
   - Magnet: a two-pronged defense against adversarial examples (Magnet)
   - Featurized bidirectional gan:Adversarial defense via adversarially learned semantic inference (FBGAN)
   - Detecting adversarial examples via neural fingerprinting (NFP)
   - Detecting adversarial examples through image transformation (RIT)
   
-- ViDetecting adversarial examples is (nearly) as hard as classifying them 
-  
-- {WaveGuard}: Understanding and mitigating audio adversarial examples [audio domin, attack和defense均是选取本领域的，可借鉴]
+- ViDetecting adversarial examples is (nearly) as hard as classifying them[[USENIX Security2021, CCF-A](https://www.usenix.org/system/files/sec21-hussain.pdf)]
+  - 无baseline
+
+- {WaveGuard}: Understanding and mitigating audio adversarial examples
+  - **1.audio domin, attack和defense均是选取本领域的，可借鉴  2. domain的baseline 3. 围绕domin和audio领域阐述目前防御无法抵御adaptive attack,可参考**
   - Isolated and ensemble audio preprocessing methods for detecting adversarial examples against automatic speech recognition
   - Characterizing audio adversarial examples using temporal dependency
   
@@ -32,14 +33,16 @@
   - Countering adversarial images using input transformations
   - Defensive quantization: When efficiency meets robustness
   - Qusecnets: Quantization based defense mechanism for securing deep neural network against adversarial attacks
-  - Detecting adversarial image examples in deep neural networks with adaptive noise reduction
+  - Detecting adversarial image examples in deep neural networks with adaptive noise reduction (TSD)
 
 
 - Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples
+[[TOSMA2023, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3631977)]
+  - **1.基于leveraging (adversarial) robustness，解释了鲁棒性的原因 2. 标签翻转所耗费的cost 3.adversarial attack based abnormal example detection method 4. 用CLEVER来检测** 
   - Detecting adversarial samples from artifacts.
-  - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality
-  - Dissector: Input Validation for Deep Learning Applications by Crossing-layer Dissection.
-  - Adversarial sample detection for deep neural network through model mutation testing.
+  - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality (LID)
+  - Dissector: Input Validation for Deep Learning Applications by Crossing-layer Dissection
+  - Adversarial sample detection for deep neural network through model mutation testing
 
 
 - Beating attackers at their own games: Adversarial example detection using adversarial gradient directions
@@ -72,3 +75,12 @@
   - the fine-tuning start point MAP; 
   - two standard adversarial detection approaches KD [14] and LID [39], which both work on the extracted features by MAP; 
   - three popular BNN baselines MC dropout [17], MFVI [2], and LMFVI.
+
+
+  
+- EMShepherd: Detecting Adversarial Samples via Side-channel Leakage
+  - Detecting adversarial samples with neural network invariant checking. (KDE)
+  - Detecting adversarial samples from artifacts. (NIC)
+  - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
+  - Magnet: A two-pronged defense against adversarial examples (Magnet)
+  
