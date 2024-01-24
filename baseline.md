@@ -36,8 +36,9 @@
   - Detecting adversarial image examples in deep neural networks with adaptive noise reduction (TSD)
 
 
-- Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples
-[[TOSMA2023, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3631977)]
+- **Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples**
+[[TOSMA2023, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3631977)]]
+[[ISSTA2021, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3460319.3464822)]
   - **1.基于leveraging (adversarial) robustness，解释了鲁棒性的原因 2. 标签翻转所耗费的cost 3.adversarial attack based abnormal example detection method 4. 用CLEVER来检测** 
   - Detecting adversarial samples from artifacts.
   - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality (LID)
@@ -45,7 +46,8 @@
   - Adversarial sample detection for deep neural network through model mutation testing
 
 
-- Beating attackers at their own games: Adversarial example detection using adversarial gradient directions
+- **Beating attackers at their own games: Adversarial example detection using adversarial gradient directions**
+  - **1.也是利用攻击的思路，根据角度/方向的差异 2. baseline选取：transformed-based、Neighborhood-based**
   - A New Defense Against Adversarial Images: Turning a Weakness into a Strength.
   - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
   - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.
@@ -53,18 +55,21 @@
 
 
 - Adversarial Example Detection Using Latent Neighborhood Graph
+  - **1. baseline选取：仅描述sota**
   - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. (DkNN)
   - Defense against adversarial images using web-scale nearest-neighbor search. (KNN)
   - Characterizing adversarial subspaces using local intrinsic dimensionality (LID)
   - A new defense against adversarial images: Turning a weakness into a strength.
 
-- Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain (schemes based)
+- Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain
+  - **1. baseline选取：We compare SID with the state-of-the-art schemes based，未给出schemes based的含义**
   - Characterizing adversarial subspaces using local intrinsic dimensionality (LID)
   - A Simple Unified Framework for Detecting Out-Of-Distribution Samples and Adversarial Attacks. 
   - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
 
 
-- Class-disentanglement and applications in adversarial detection and defense (adversarial training based methods and preprocessing based methods)
+- Class-disentanglement and applications in adversarial detection and defense 
+  - adversarial training based methods and preprocessing based methods
 
 - Detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error
   - Defense-gan: Protecting classifiers against adversarial attacks using generative models.
@@ -75,7 +80,6 @@
   - the fine-tuning start point MAP; 
   - two standard adversarial detection approaches KD [14] and LID [39], which both work on the extracted features by MAP; 
   - three popular BNN baselines MC dropout [17], MFVI [2], and LMFVI.
-
 
   
 - EMShepherd: Detecting Adversarial Samples via Side-channel Leakage

@@ -45,7 +45,7 @@
 [[USENIX Security2021, CCF-A](https://www.usenix.org/system/files/sec21-hussain.pdf)]
 
 - Attack as defense: Characterizing adversarial examples using robustness
-[[ISSTA2021, CCF-A](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
+[[ISSTA2021, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3460319.3464822)]
 
 - Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples
 [[TOSMA2023, CCF-A](https://dl.acm.org/doi/pdf/10.1145/3631977)]
