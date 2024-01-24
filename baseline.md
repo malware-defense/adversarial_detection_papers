@@ -7,7 +7,7 @@
   - Detecting adversarial image examples in deep neural networks with adaptive noise reduction (TSD)
   
 - A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images[[ICLR2023, CCF-A](https://openreview.net/pdf?id=RIcaT3C0wP)]
-  - **1. Supervised methods depend on the knowledge about the perpetrated attack, Unsupervised methods do not assume any knowledge of the attacker. 2. 选取的理由是Unsupervised methods(但没说明为什么不选其他的)，  We could consider NIC (Ma and Liu, 2019) but extracting features at each layer is computationally expensive.**
+  - **1. Supervised methods depend on the knowledge about the perpetrated attack, Unsupervised methods do not assume any knowledge of the attacker. 2. 选取的理由是Unsupervised methods(但没说明为什么不选其他的)，  We could consider NIC (Ma and Liu, 2019) but extracting features at each layer is computationally expensive，考虑adaptive attack**
    - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
    - Magnet: A two-pronged defense against adversarial examples (Magnet)
 
@@ -47,6 +47,7 @@
 
 
 - **Beating attackers at their own games: Adversarial example detection using adversarial gradient directions**
+  -[[AAAI2021, CCF-A, **](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)] 
   - **1.也是利用攻击的思路，根据角度/方向的差异 2. baseline选取：transformed-based、Neighborhood-based**
   - A New Defense Against Adversarial Images: Turning a Weakness into a Strength.
   - Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks. (FS)
