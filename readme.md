@@ -1,3 +1,36 @@
+#### 四大时间
+USENIX Security2024: February 8, 2024
+SP2025:  June 6, 2024(2025年只有两轮)
+CCS2024:Paper submission deadline: April 14th, 2024 (tentative)
+NDSS2023: 19 Apr 2023: Paper submission deadline
+
+#### 2023-2024 四大
+- SP
+  - From Grim Reality to Practical Solution: Malware Classification in Real-World Noise(2023)
+  - Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers
+
+- USENIX Security
+  - FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition(2024)
+  
+  - Humans vs. Machines in Malware Classification(2023)
+  - On the Feasibility of Malware Unpacking via Hardware-assisted Loop Profiling
+  - Black-box Adversarial Example Attack towards FCG Based Android Malware Detection under Incomplete Feature Information
+  
+  - Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning(2022)
+
+- CCS
+  - Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting(2023)
+  - Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance
+
+  - Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection(2022)
+  - Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models
+  - SpecPatch: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition
+
+- NDSS
+  - 无
+
+
+
 #### 综述
 - Adversarial example detection for DNN models: A review and experimental comparison
 [[Artificial Intelligence Review](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Adversarial+Sample&btnG=)]
