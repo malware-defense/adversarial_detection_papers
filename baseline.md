@@ -1,3 +1,11 @@
+### malware domin：dversarial examples detecting
+- When a tree falls: Using diversity in ensemble classifiers to identify evasion in malware detectors (NDSS2016, 目前未找到开源)
+- Automated poisoning attacks and defenses in malware detection systems: An adversarial machine learning approach （Comput.Security，目前未找到开源）
+- On the (statistical) detection of adversarial examples  (未开源，论文中说可以联系作者获取code)
+- Robust android malware detection against adversarial example attacks  (恶意软件检测的，但也简单提到了对抗样本检测)
+
+
+### all domin：dversarial examples detecting
 - Detecting adversarial examples on deep neural networks with mutual information neural estimation (MIAED)[[TDSC2023, CCF-A](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034820)]
   - **1. 未给出baseline选取理由，仅说是sota 2. 阐述了防御和检测的关系**
   - On detecting adversarial perturbations (GND)
