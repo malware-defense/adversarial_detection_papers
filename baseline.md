@@ -1,5 +1,9 @@
+### 项目仓
+- https://github.com/malware-defense/detectors_review(FS、MagNet)
+- https://github.com/mzweilin/EvadeML-Zoo(FS、MagNet)
+
 ### malware domin：dversarial examples detecting
-- When a tree falls: Using diversity in ensemble classifiers to identify evasion in malware detectors (NDSS2016, 目前未找到开源)
+- When a tree falls: Using diversity in ensemble classifiers to identify evasion in malware detectors (NDSS2016, 目前未找到开源)
 - Automated poisoning attacks and defenses in malware detection systems: An adversarial machine learning approach （Comput.Security，目前未找到开源）
 - On the (statistical) detection of adversarial examples  (未开源，论文中说可以联系作者获取code)
 - Robust android malware detection against adversarial example attacks  (恶意软件检测的，但也简单提到了对抗样本检测)
@@ -14,7 +18,11 @@
   - Adversarial and clean data are not twins (SSD)
   - Detecting adversarial image examples in deep neural networks with adaptive noise reduction (TSD)
   
-- A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images[[ICLR2023, CCF-A](https://openreview.net/pdf?id=RIcaT3C0wP)]
+- What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction.NDSS2022, CCF-A `Generative-based AE detection` [[pdf](https://arxiv.org/pdf/2201.09650.pdf)] [[code](https://github.com/cure-lab/ContraNet)]
+
+
+
+- A Simple Unsupervised Data Depth-based Method to Detect Adversarial Images[[ICLR2023, CCF-A, 未录用](https://openreview.net/pdf?id=RIcaT3C0wP)]
   - **1. Supervised methods depend on the knowledge about the perpetrated attack, Unsupervised methods do not assume any knowledge of the attacker. 2. 选取的理由是Unsupervised methods(但没说明为什么不选其他的)，  We could consider NIC (Ma and Liu, 2019) but extracting features at each layer is computationally expensive，考虑adaptive attack**
    - Feature squeezing: Detecting adversarial examples in deep neural networks (FS)
    - Magnet: A two-pronged defense against adversarial examples (Magnet)
